@@ -7,7 +7,10 @@ const outfit = Outfit({ subsets: ['latin'], weight: ["300", "400", "500"] })
 
 export const metadata = {
   title: "gadgety - Abid Khan Azam",
-  description: "E-Commerce with Next.js ",
+  description: "E-Commerce with Next.js",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
