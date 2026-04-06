@@ -7,12 +7,11 @@ const Footer = () => {
     <footer>
       <div className="flex flex-col md:flex-row items-start justify-center px-6 md:px-16 lg:px-32 gap-10 py-14 border-b border-gray-500/30 text-gray-500">
         <div className="w-4/5">
-          <Image className="w-28 md:w-28" src={assets.logo} alt="logo" width={100} height={100} />
+          <Image className="w-28 md:w-32" src={assets.logo} alt="logo" width={100} height={100} />
           <p className="mt-6 text-sm">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Gadgety is your go-to destination for the latest and greatest in technology.
+            We offer a curated selection of high-quality electronics, from elite gaming
+            gear to premium audio and cutting-edge productivity tools.
           </p>
         </div>
 
@@ -40,14 +39,14 @@ const Footer = () => {
           <div>
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
-              <p>+1-234-567-890</p>
-              <p>contact@greatstack.dev</p>
+              <p>+1-800-258-4447</p>
+              <p>contact@gadgety.com</p>
             </div>
           </div>
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        Copyright 2025 © Abid Khan Azam All Right Reserved.
+        © 2026 Gadgety. Developed By <a href="https://abidazam.com" target="_blank" className="font-medium hover:underline">Abid Azam Khan</a> · CEO of <a href="https://unipixer.com" target="_blank" className="font-medium hover:underline">Unipixer</a>
       </p>
     </footer>
   );
