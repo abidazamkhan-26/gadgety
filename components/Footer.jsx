@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        © 2026 Gadgety. Developed By <a href="https://abidazam.com" target="_blank" className="font-medium hover:underline">Abid Azam Khan</a> · CEO of <a href="https://unipixer.com" target="_blank" className="font-medium hover:underline">Unipixer</a>
+        © 2026 Gadgety. Developed By <span href="" target="_blank" className="font-medium ">Abid Azam Khan</span> · CEO of <span href="" target="_blank" className="font-medium">Unipixer</span>
       </p>
     </footer>
   );
