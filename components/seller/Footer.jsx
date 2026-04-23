@@ -9,7 +9,7 @@ const Footer = () => {
         <Image className="hidden md:block" src={assets.logo} alt="logo" />
         <div className="hidden md:block h-7 w-px bg-gray-500/60"></div>
         <p className="py-4 text-center text-xs md:text-sm">
-        © 2026 Gadgety. Developed By <span href="" target="_blank" className="font-medium ">Abid Azam Khan</span> · CEO of <span href="" target="_blank" className="font-medium">Unipixer</span>
+        © 2026 Gadgetfly. Developed By <span href="" target="_blank" className="font-medium ">Abid Azam Khan</span> · CEO of <span href="" target="_blank" className="font-medium">Unipixer</span>
       </p>
       </div>
       <div className="flex items-center gap-3">

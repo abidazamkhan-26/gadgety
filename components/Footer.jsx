@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" width={100} height={100} />
           <p className="mt-6 text-sm">
-            Gadgety is your go-to destination for the latest and greatest in technology.
+            Gadgetfly is your go-to destination for the latest and greatest in technology.
             We offer a curated selection of high-quality electronics, from elite gaming
             gear to premium audio and cutting-edge productivity tools.
           </p>
@@ -40,13 +40,13 @@ const Footer = () => {
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
               <p>+1-800-258-4447</p>
-              <p>contact@gadgety.com</p>
+              <p>contact@Gadgetfly.com</p>
             </div>
           </div>
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        © 2026 Gadgety. Developed By <span href="" target="_blank" className="font-medium ">Abid Azam Khan</span> · CEO of <span href="" target="_blank" className="font-medium">Unipixer</span>
+        © 2026 Gadgetfly. Developed By <span href="" target="_blank" className="font-medium ">Abid Azam Khan</span> · CEO of <span href="" target="_blank" className="font-medium">Unipixer</span>
       </p>
     </footer>
   );

@@ -6,7 +6,7 @@ import { Toaster } from "react-hot-toast";
 const outfit = Outfit({ subsets: ['latin'], weight: ["300", "400", "500"] })
 
 export const metadata = {
-  title: "Gadgety | Your Ultimate Gadget Store",
+  title: "Gadgetfly | Your Ultimate Gadget Store",
   description: "E-Commerce with Next.js",
   icons: {
     icon: "/favicon.png",
